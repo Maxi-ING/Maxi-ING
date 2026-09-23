@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=160&section=header&text=¡Hola,%20soy%20MaxHT!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Datos%20|%20Data%20Analyst&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=160&section=header&text=¡Hola,%20soy%20Max%20HT!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Datos%20|%20Data%20Analyst&descAlignY=58&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Transformando+datos+en+decisiones;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 
