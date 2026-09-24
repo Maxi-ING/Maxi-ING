@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/max-huaman-data)
 [![Portafolio](https://img.shields.io/badge/Portafolio-6366F1?style=for-the-badge&logo=notion&logoColor=white)](https://tu-sitio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](htmaximo3904@gmail.com)
 
 </div>
 
@@ -136,21 +136,6 @@
 - 🧮 SQL avanzado (ventanas, CTEs, optimización de queries)
 
 <br/>
-
-<!-- ============================================================ -->
-<!-- 🤝 CONTACTO                                                  -->
-<!-- ============================================================ -->
-
-## 🤝 Conectemos
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TU-USUARIO)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
-
-</div>
-
 <br/>
 
 <!-- ============================================================ -->
