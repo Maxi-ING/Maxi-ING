@@ -113,12 +113,24 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Maxi-ING&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=6366F1&icon_color=0EA5E9&text_color=D3D3D3&bg_color=0,000000,130F40" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxi-ING&layout=compact&show_icons=true&locale=en&line_height=20&title_color=6366F1&icon_color=0EA5E9&text_color=D3D3D3&bg_color=0,000000,130F40" width="35%"/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maxi-ING&theme=tokyonight"
+  alt="Estadísticas de GitHub de Maxi-ING"
+  height="190"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maxi-ING&theme=tokyonight"
+  alt="Lenguajes por repositorio de Maxi-ING"
+  height="190"
+/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxi-ING&theme=tokyonight&hide_border=true&background=00000000&ring=6366F1&fire=0EA5E9" width="60%"/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Maxi-ING&theme=tokyonight"
+  alt="Racha de contribuciones de Maxi-ING"
+  height="190"
+/>
 
 </div>
 
