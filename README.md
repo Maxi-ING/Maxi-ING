@@ -10,7 +10,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/max-huaman-data)
-[![Portafolio](https://img.shields.io/badge/Portafolio-6366F1?style=for-the-badge&logo=notion&logoColor=white)](https://tu-sitio.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-6366F1?style=for-the-badge&logo=notion&logoColor=white)]([https://tu-sitio.com](https://flower-jasmine-a3b.notion.site/Max-Huaman-Tocto-Data-Analyst-3bf711ab61248075a6bec2a8087d1862?source=copy_link))
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:htmaximo3904@gmail.com)
 
 </div>
