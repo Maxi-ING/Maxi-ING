@@ -28,7 +28,6 @@
 - 📈 Construyendo dashboards y reportes que ayudan a tomar mejores decisiones
 - 🧠 Aprendiendo estadística aplicada, SQL avanzado y modelos predictivos básicos
 - 🌐 Portafolio: [tu-sitio.com](https://tu-sitio.com)
-- 📄 Currículum: [ver CV](https://read.cv/TU-USUARIO)
 - 💼 Disponible para prácticas profesionales u oportunidades como Analista de Datos Jr.
 
 <br/>
