@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=160&section=header&text=¡Hola,%20soy%20Max%20HT!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Datos%20|%20Data%20Analyst&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=160&section=header&text=¡Hola,%20soy%20Max%20HT!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20Business%20Intelligence&descAlignY=58&descSize=18" alt="Max HT — Data Analytics y Business Intelligence"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Transformando+datos+en+decisiones;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 
@@ -17,24 +17,38 @@
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- 👤 SOBRE MÍ                                                  -->
-<!-- ============================================================ -->
-
 ## 👤 Sobre mí
 
-- 📊 Analista de Datos en formación, enfocado en convertir datos crudos en información accionable
-- 🔎 Me especializo en limpieza de datos, análisis exploratorio (EDA) y visualización
-- 📈 Construyendo dashboards y reportes que ayudan a tomar mejores decisiones
-- 🧠 Aprendiendo estadística aplicada, SQL avanzado y modelos predictivos básicos
-- 🌐 Portafolio: [tu-sitio.com](https://tu-sitio.com)
-- 💼 Disponible para prácticas profesionales u oportunidades como Analista de Datos Jr.
+Mi formación en **Ingeniería de Sistemas** y mi enfoque en **análisis de datos y Business Intelligence** me permiten conectar la preparación de datos, el análisis y el desarrollo de aplicaciones.
+
+- 📊 Desarrollo proyectos de limpieza, validación y transformación de datos con **SQL, Python, Excel y Power Query**.
+- 📈 Construyo dashboards e indicadores con **Power BI y DAX** para responder preguntas de negocio.
+- 💻 Complemento mi especialización en datos con desarrollo **backend y frontend**.
+- 💼 Busco prácticas profesionales u oportunidades como **Analista de Datos Jr.**
+- 🌐 Explora las decisiones, resultados y evidencias en mi [portafolio](https://flower-jasmine-a3b.notion.site/Max-Huaman-Tocto-Data-Analyst-3bf711ab61248075a6bec2a8087d1862?source=copy_link).
+
+**Conocimientos que estoy consolidando**
+
+- **Estadística aplicada y probabilidad:** interpretación de resultados y fundamentos para el análisis de datos.
+- **SQL avanzado:** funciones de ventana, CTEs y optimización de consultas.
+- **Machine Learning con Scikit-learn:** regresión y evaluación de modelos predictivos básicos.
+- **Data Warehousing en la nube:** fundamentos y estudio de BigQuery y Amazon Redshift.
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- 🧰 STACK TÉCNICO                                             -->
-<!-- ============================================================ -->
+## 📌 Proyectos destacados
+
+Tres proyectos que muestran cómo preparo datos, construyo indicadores y aplico modelos predictivos.
+
+| Proyecto | Qué aporta | Tecnologías |
+| --- | --- | --- |
+| **[Dashboard comercial y control de ventas](https://github.com/Maxi-ING/Dashboard-comercial)** | Análisis de ventas, unidades y pedidos mediante KPIs, tabla calendario y medidas para el seguimiento comercial. | Power BI · DAX · MySQL |
+| **[ETL y calidad de datos de ventas](https://github.com/Maxi-ING/Proyect-ETL-VENTAS)** | Limpieza y validación de **12.575 transacciones**: **11.971 ventas válidas** y **604 registros para revisión**, con consultas reproducibles y controles de calidad. | Excel · Power Query · M · Python |
+| **[FitAnalytics AI — análisis de progreso](https://github.com/Maxi-ING/WebGym-Backend)** | API que transforma registros de entrenamiento en indicadores y usa regresión lineal para estimar el avance hacia una meta, con requisitos mínimos de datos y pruebas automatizadas. | Python · FastAPI · Scikit-learn · SQLAlchemy · PostgreSQL / SQLite |
+
+La interfaz de FitAnalytics está en desarrollo en [WebGym-Frontend, rama `dev`](https://github.com/Maxi-ING/WebGym-Frontend/tree/dev), con gráficos en Chart.js.
+
+<br/>
 
 ## 🧰 Stack técnico
 
@@ -124,29 +138,6 @@
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- 📌 PROYECTOS DESTACADOS                                      -->
-<!-- ============================================================ -->
-
-## 📌 Proyectos destacados
-
-<div align="center">
-
-[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=analisis-ventas-sql&theme=tokyonight)](https://github.com/TU-USUARIO/analisis-ventas-sql)
-[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=dashboard-powerbi&theme=tokyonight)](https://github.com/TU-USUARIO/dashboard-powerbi)
-[![Proyecto 3](https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=eda-python-pandas&theme=tokyonight)](https://github.com/TU-USUARIO/eda-python-pandas)
-[![Proyecto 4](https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=etl-pipeline&theme=tokyonight)](https://github.com/TU-USUARIO/etl-pipeline)
-
-</div>
-
-> 💡 Cambia estos repos por tus proyectos reales: análisis exploratorio, dashboards, pipelines ETL, casos de negocio resueltos con datos, etc.
-
-<br/>
-
-<!-- ============================================================ -->
-<!-- 📊 ESTADÍSTICAS DE GITHUB                                    -->
-<!-- ============================================================ -->
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
@@ -174,27 +165,20 @@
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- 🎓 EN CAMINO A / CURRENTLY LEARNING                          -->
-<!-- ============================================================ -->
-
 ## 🎓 Actualmente aprendiendo
 
-- 📐 Estadística aplicada y probabilidad para análisis de datos
-- 🤖 Fundamentos de Machine Learning con Scikit-learn
-- ☁️ Data Warehousing en la nube (BigQuery / Redshift)
-- 🧮 SQL avanzado (ventanas, CTEs, optimización de queries)
+Mi siguiente foco es ampliar estos proyectos hacia plataformas de datos e inteligencia artificial:
+
+- **Databricks y Apache Spark:** procesamiento distribuido, PySpark y arquitectura Lakehouse con Delta Lake.
+- **Snowflake:** almacenamiento analítico, modelado y transformación de datos con SQL.
+- **Ingeniería de datos:** diseño de pipelines ETL/ELT, orquestación y controles de calidad.
+- **IA generativa aplicada a datos:** modelos de lenguaje, RAG y evaluación de respuestas.
+- **MLOps:** seguimiento de experimentos, versionado y despliegue de modelos.
 
 <br/>
-<br/>
 
-<!-- ============================================================ -->
-<!-- 🦶 PIE DE PÁGINA / FOOTER                                    -->
-<!-- ============================================================ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=100&section=footer"/>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=100&section=footer" alt="Pie de página del perfil de Max HT"/>
 
 ### Gracias por visitar mi perfil
 
