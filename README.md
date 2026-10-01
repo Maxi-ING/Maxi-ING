@@ -44,9 +44,6 @@ Tres proyectos que muestran cómo preparo datos, construyo indicadores y aplico 
 | --- | --- | --- |
 | **[Dashboard comercial y control de ventas](https://github.com/Maxi-ING/Dashboard-comercial)** | Análisis de ventas, unidades y pedidos mediante KPIs, tabla calendario y medidas para el seguimiento comercial. | Power BI · DAX · MySQL |
 | **[ETL y calidad de datos de ventas](https://github.com/Maxi-ING/Proyect-ETL-VENTAS)** | Limpieza y validación de **12.575 transacciones**: **11.971 ventas válidas** y **604 registros para revisión**, con consultas reproducibles y controles de calidad. | Excel · Power Query · M · Python |
-| **[FitAnalytics AI — análisis de progreso](https://github.com/Maxi-ING/WebGym-Backend)** | API que transforma registros de entrenamiento en indicadores y usa regresión lineal para estimar el avance hacia una meta, con requisitos mínimos de datos y pruebas automatizadas. | Python · FastAPI · Scikit-learn · SQLAlchemy · PostgreSQL / SQLite |
-
-La interfaz de FitAnalytics está en desarrollo en [WebGym-Frontend, rama `dev`](https://github.com/Maxi-ING/WebGym-Frontend/tree/dev), con gráficos en Chart.js.
 
 <br/>
 
