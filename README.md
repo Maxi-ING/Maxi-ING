@@ -19,13 +19,12 @@
 
 ## 👤 Sobre mí
 
-Mi formación en **Ingeniería de Sistemas** y mi enfoque en **análisis de datos y Business Intelligence** me permiten conectar la preparación de datos, el análisis y el desarrollo de aplicaciones.
+Mi formación en **Ingeniería de Sistemas** y mi enfoque en **análisis de datos y Business Intelligence** me permiten conectar la preparación de datos, el análisis y el desarrollo de dashboards .
 
 - 📊 Desarrollo proyectos de limpieza, validación y transformación de datos con **SQL, Python, Excel y Power Query**.
 - 📈 Construyo dashboards e indicadores con **Power BI y DAX** para responder preguntas de negocio.
 - 💻 Complemento mi especialización en datos con desarrollo **backend y frontend**.
-- 💼 Busco prácticas profesionales u oportunidades como **Analista de Datos Jr.**
-- 🌐 Explora las decisiones, resultados y evidencias en mi [portafolio](https://flower-jasmine-a3b.notion.site/Max-Huaman-Tocto-Data-Analyst-3bf711ab61248075a6bec2a8087d1862?source=copy_link).
+- 💼 Busco prácticas profesionales u oportunidades como **Analista de Datos**
 
 **Conocimientos que estoy consolidando**
 
