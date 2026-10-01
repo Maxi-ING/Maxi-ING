@@ -174,8 +174,10 @@ Mi siguiente foco es ampliar estos proyectos hacia plataformas de datos e inteli
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=100&section=footer" alt="Pie de página del perfil de Max HT"/>
+
 
 ### Gracias por visitar mi perfil
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=120&section=footer" alt="Pie de página del perfil de Max HT"/>
 </div>
+
