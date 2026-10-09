@@ -163,13 +163,12 @@ Tres proyectos que muestran cómo preparo datos, construyo indicadores y aplico 
 
 ## 🎓 Actualmente aprendiendo
 
-Mi siguiente foco es ampliar estos proyectos hacia plataformas de datos e inteligencia artificial:
+Mi siguiente foco es ampliarme hacia plataformas de datos e inteligencia artificial:
 
-- **Databricks y Apache Spark:** procesamiento distribuido, PySpark y arquitectura Lakehouse con Delta Lake.
 - **Snowflake:** almacenamiento analítico, modelado y transformación de datos con SQL.
+- **Databricks y Apache Spark:** procesamiento distribuido, PySpark y arquitectura Lakehouse.
 - **Ingeniería de datos:** diseño de pipelines ETL/ELT, orquestación y controles de calidad.
-- **IA generativa aplicada a datos:** modelos de lenguaje, RAG y evaluación de respuestas.
-- **MLOps:** seguimiento de experimentos, versionado y despliegue de modelos.
+- **IA generativa aplicada a datos:** modelos de lenguaje y evaluación de respuestas.
 
 <br/>
 
