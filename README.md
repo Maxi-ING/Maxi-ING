@@ -19,12 +19,13 @@
 
 ## 👤 Sobre mí
 
-Mi formación en **Ingeniería de Sistemas** y mi enfoque en **análisis de datos y Business Intelligence** me permiten conectar la preparación de datos, el análisis y el desarrollo de dashboards .
+Me especializo en **análisis de datos y Business Intelligence**, con formación en **Ingeniería de Sistemas**. En mis proyectos preparo los datos, respondo preguntas de negocio y comunico los resultados de forma clara.
 
-- 📊 Desarrollo proyectos de limpieza, validación y transformación de datos con **SQL, Python, Excel y Power Query**.
-- 📈 Construyo dashboards e indicadores con **Power BI y DAX** para responder preguntas de negocio.
-- 💻 Complemento mi especialización en datos con desarrollo **backend y frontend**.
-- 💼 Busco prácticas profesionales u oportunidades como **Analista de Datos**
+- 📊 **Preparación de datos:** limpieza, validación y transformación con Excel, Power Query, SQL y Python.
+- 🔎 **Análisis:** consultas SQL para comparar resultados e identificar hallazgos relevantes.
+- 📈 **Comunicación:** dashboards con Power BI y DAX, acompañados de explicaciones sobre qué encontré y qué conviene revisar.
+- 💻 Complemento mi enfoque en datos con desarrollo **backend y frontend**.
+- 💼 Busco prácticas profesionales u oportunidades como **Analista de Datos**.
 
 **Conocimientos que estoy consolidando**
 
