@@ -37,12 +37,17 @@ Mi formación en **Ingeniería de Sistemas** y mi enfoque en **análisis de dato
 
 ## 📌 Proyectos destacados
 
-Tres proyectos que muestran cómo preparo datos, construyo indicadores y aplico modelos predictivos.
+Tres proyectos que muestran cómo preparo datos, respondo preguntas de negocio y presento resultados para apoyar decisiones.
 
 | Proyecto | Qué aporta | Tecnologías |
 | --- | --- | --- |
-| **[Dashboard comercial y control de ventas](https://github.com/Maxi-ING/Dashboard-comercial)** | Análisis de ventas, unidades y pedidos mediante KPIs, tabla calendario y medidas para el seguimiento comercial. | Power BI · DAX · MySQL |
-| **[ETL y calidad de datos de ventas](https://github.com/Maxi-ING/Proyect-ETL-VENTAS)** | Limpieza y validación de **12.575 transacciones**: **11.971 ventas válidas** y **604 registros para revisión**, con consultas reproducibles y controles de calidad. | Excel · Power Query · M · Python |
+| **NexaMart — Análisis comercial** | Diez consultas SQL para comparar tiendas, productos y vendedores, con respuestas comerciales y un dashboard para explorar decisiones. | SQL · MySQL · Power BI · DAX |
+| **ETL y calidad de datos de ventas** | Preparación de **12.575 transacciones**: **11.971 ventas válidas** y **604 casos para revisión**, mediante reglas de limpieza reproducibles. | Excel · Power Query · M |
+| **Dashboard comercial y control de ventas** | Seguimiento de **240 pedidos**, con indicadores y comparaciones por categoría, región, método de pago y mes. | Power BI · DAX · MySQL |
+
+<a href="https://github.com/Maxi-ING/Project-Nexamart"><img src="https://img.shields.io/badge/Ver_NexaMart-238636?style=flat&logo=github&logoColor=white" alt="Ver repositorio NexaMart"/></a>
+<a href="https://github.com/Maxi-ING/Proyect-ETL-VENTAS"><img src="https://img.shields.io/badge/Ver_ETL_Ventas-217346?style=flat&logo=github&logoColor=white" alt="Ver repositorio ETL Ventas"/></a>
+<a href="https://github.com/Maxi-ING/Dashboard-comercial"><img src="https://img.shields.io/badge/Ver_Dashboard_comercial-4479A1?style=flat&logo=github&logoColor=white" alt="Ver repositorio Dashboard comercial"/></a>
 
 <br/>
 
