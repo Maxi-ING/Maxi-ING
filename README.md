@@ -46,10 +46,6 @@ Tres proyectos que muestran cómo preparo datos, respondo preguntas de negocio y
 | **ETL y calidad de datos de ventas** | Preparación de **12.575 transacciones**: **11.971 ventas válidas** y **604 casos para revisión**, mediante reglas de limpieza reproducibles. | Excel · Power Query · M |
 | **Dashboard comercial y control de ventas** | Seguimiento de **240 pedidos**, con indicadores y comparaciones por categoría, región, método de pago y mes. | Power BI · DAX · MySQL |
 
-<a href="https://github.com/Maxi-ING/Project-Nexamart"><img src="https://img.shields.io/badge/Ver_NexaMart-238636?style=flat&logo=github&logoColor=white" alt="Ver repositorio NexaMart"/></a>
-<a href="https://github.com/Maxi-ING/Proyect-ETL-VENTAS"><img src="https://img.shields.io/badge/Ver_ETL_Ventas-217346?style=flat&logo=github&logoColor=white" alt="Ver repositorio ETL Ventas"/></a>
-<a href="https://github.com/Maxi-ING/Dashboard-comercial"><img src="https://img.shields.io/badge/Ver_Dashboard_comercial-4479A1?style=flat&logo=github&logoColor=white" alt="Ver repositorio Dashboard comercial"/></a>
-
 <br/>
 
 ## 🧰 Stack técnico
