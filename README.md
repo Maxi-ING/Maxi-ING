@@ -32,13 +32,13 @@ Me especializo en **análisis de datos y Business Intelligence**, con formación
 - **Estadística aplicada y probabilidad:** interpretación de resultados y fundamentos para el análisis de datos.
 - **SQL avanzado:** funciones de ventana, CTEs y optimización de consultas.
 - **Machine Learning con Scikit-learn:** regresión y evaluación de modelos predictivos básicos.
-- **Data Warehousing en la nube:** fundamentos y estudio de BigQuery y Amazon Redshift.
+- **Data Warehousing en la nube:** fundamentos y estudio de BigQuery.
 
 <br/>
 
 ## 📌 Proyectos destacados
 
-Tres proyectos que muestran cómo preparo datos, respondo preguntas de negocio y presento resultados para apoyar decisiones.
+Proyectos que muestran cómo preparo datos, respondo preguntas de negocio y presento resultados para apoyar decisiones.
 
 | Proyecto | Qué aporta | Tecnologías |
 | --- | --- | --- |
@@ -75,7 +75,6 @@ Tres proyectos que muestran cómo preparo datos, respondo preguntas de negocio y
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logoColor=white)
-![M](https://img.shields.io/badge/M-217346?style=for-the-badge&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 <br/>
@@ -106,8 +105,6 @@ Tres proyectos que muestran cómo preparo datos, respondo preguntas de negocio y
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 
 <br/>
 
@@ -124,7 +121,6 @@ Tres proyectos que muestran cómo preparo datos, respondo preguntas de negocio y
 <!-- --- Nube y herramientas --- -->
 **Nube y herramientas**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
