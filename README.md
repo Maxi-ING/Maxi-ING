@@ -19,7 +19,7 @@
 
 ## 👤 Sobre mí
 
-Soy estudiante de **octavo ciclo de Ingeniería de Sistemas e Informática en la UTP**, orientado al análisis de datos y Business Intelligence. Desarrollo proyectos con **SQL, Excel, Power Query y Power BI** para preparar información, analizar ventas y comunicar hallazgos de negocio.
+Soy estudiante de **Ingeniería de Sistemas e Informática**, orientado al análisis de datos y Business Intelligence. Desarrollo proyectos con **SQL, Excel, Power Query y Power BI** para preparar información, analizar ventas y comunicar hallazgos de negocio.
 
 - 📊 **Preparación de datos:** limpieza, validación y transformación con Excel y Power Query.
 - 🔎 **Análisis:** consultas SQL para comparar resultados e identificar hallazgos relevantes.
@@ -165,7 +165,7 @@ Estas herramientas reúnen mi trabajo en datos, desarrollo web y aprendizaje. Pa
 
 ## 🎓 Actualmente aprendiendo
 
-Continúo reforzando SQL y estadística aplicada. Como siguiente etapa de aprendizaje, exploro plataformas de datos e inteligencia artificial:
+Como siguiente etapa de aprendizaje, exploro plataformas de datos e inteligencia artificial:
 
 - **Snowflake:** almacenamiento analítico, modelado y transformación de datos con SQL.
 - **Databricks y Apache Spark:** procesamiento distribuido, PySpark y arquitectura Lakehouse.
