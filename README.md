@@ -5,7 +5,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=160&section=header&text=¡Hola,%20soy%20Max%20HT!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20Business%20Intelligence&descAlignY=58&descSize=18" alt="Max HT — Data Analytics y Business Intelligence"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Transformando+datos+en+decisiones;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Transformando+datos+en+decisiones;SQL+%7C+Excel+%7C+Power+Query+%7C+Power+BI;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 
 <br/>
 
@@ -19,20 +19,22 @@
 
 ## 👤 Sobre mí
 
-Me especializo en **análisis de datos y Business Intelligence**, con formación en **Ingeniería de Sistemas**. En mis proyectos preparo los datos, respondo preguntas de negocio y comunico los resultados de forma clara.
+Soy estudiante de **octavo ciclo de Ingeniería de Sistemas e Informática en la UTP**, orientado al análisis de datos y Business Intelligence. Desarrollo proyectos con **SQL, Excel, Power Query y Power BI** para preparar información, analizar ventas y comunicar hallazgos de negocio.
 
-- 📊 **Preparación de datos:** limpieza, validación y transformación con Excel, Power Query, SQL y Python.
+- 📊 **Preparación de datos:** limpieza, validación y transformación con Excel y Power Query.
 - 🔎 **Análisis:** consultas SQL para comparar resultados e identificar hallazgos relevantes.
 - 📈 **Comunicación:** dashboards con Power BI y DAX, acompañados de explicaciones sobre qué encontré y qué conviene revisar.
 - 💻 Complemento mi enfoque en datos con desarrollo **backend y frontend**.
-- 💼 Busco prácticas profesionales u oportunidades como **Analista de Datos**.
+- 💼 Busco prácticas o una posición inicial como **Analista de Datos**.
 
-**Conocimientos que estoy consolidando**
+**Habilidades aplicadas en mis proyectos de datos**
 
-- **Estadística aplicada y probabilidad:** interpretación de resultados y fundamentos para el análisis de datos.
-- **SQL avanzado:** funciones de ventana, CTEs y optimización de consultas.
-- **Machine Learning con Scikit-learn:** regresión y evaluación de modelos predictivos básicos.
-- **Data Warehousing en la nube:** fundamentos y estudio de BigQuery.
+- **SQL y MySQL:** JOINs, CTEs, subconsultas, funciones de ventana, agregaciones y modelado relacional.
+- **Excel y Power Query:** limpieza, transformación y validación de datos; consultas en lenguaje M.
+- **Power BI y DAX:** dashboards e indicadores clave de rendimiento (KPIs).
+- **Git y GitHub:** organización del código y documentación de los proyectos.
+
+**Conocimientos complementarios:** Python, SQL Server, PostgreSQL y Tableau. Las tecnologías de desarrollo web complementan mi formación en sistemas.
 
 <br/>
 
@@ -42,13 +44,15 @@ Proyectos que muestran cómo preparo datos, respondo preguntas de negocio y pres
 
 | Proyecto | Qué aporta | Tecnologías |
 | --- | --- | --- |
-| **NexaMart — Análisis comercial** | Diez consultas SQL para comparar tiendas, productos y vendedores, con respuestas comerciales y un dashboard para explorar decisiones. | SQL · MySQL · Power BI · DAX |
-| **ETL y calidad de datos de ventas** | Preparación de **12.575 transacciones**: **11.971 ventas válidas** y **604 casos para revisión**, mediante reglas de limpieza reproducibles. | Excel · Power Query · M |
-| **Dashboard comercial y control de ventas** | Seguimiento de **240 pedidos**, con indicadores y comparaciones por categoría, región, método de pago y mes. | Power BI · DAX · MySQL |
+| **[NexaMart — Análisis comercial](https://github.com/Maxi-ING/Project-Nexamart)** | Diez consultas SQL para comparar tiendas, productos y vendedores, con respuestas comerciales y un dashboard para explorar decisiones. | SQL · MySQL · Power BI · DAX |
+| **[ETL y calidad de datos de ventas](https://github.com/Maxi-ING/Proyect-ETL-VENTAS)** | Preparación de **12.575 transacciones**: **11.971 ventas válidas** y **604 casos para revisión**, mediante reglas de limpieza reproducibles. | Excel · Power Query · M |
+| **[Dashboard comercial y control de ventas](https://github.com/Maxi-ING/Dashboard-comercial)** | Seguimiento de **240 pedidos**, con indicadores y comparaciones por categoría, región, método de pago y mes. | Power BI · DAX · MySQL |
 
 <br/>
 
-## 🧰 Stack técnico
+## 🧰 Tecnologías y herramientas
+
+Estas herramientas reúnen mi trabajo en datos, desarrollo web y aprendizaje. Para análisis de datos, mi foco práctico está en **SQL/MySQL, Excel, Power Query, Power BI y DAX**.
 
 <!-- --- Lenguajes de programación --- -->
 **Lenguajes de programación y consulta**
@@ -161,7 +165,7 @@ Proyectos que muestran cómo preparo datos, respondo preguntas de negocio y pres
 
 ## 🎓 Actualmente aprendiendo
 
-Mi siguiente foco es ampliarme hacia plataformas de datos e inteligencia artificial:
+Continúo reforzando SQL y estadística aplicada. Como siguiente etapa de aprendizaje, exploro plataformas de datos e inteligencia artificial:
 
 - **Snowflake:** almacenamiento analítico, modelado y transformación de datos con SQL.
 - **Databricks y Apache Spark:** procesamiento distribuido, PySpark y arquitectura Lakehouse.
