@@ -19,7 +19,7 @@
 
 ## 👤 Sobre mí
 
-Soy estudiante de **Ingeniería de Sistemas e Informática**, orientado al análisis de datos y Business Intelligence. Desarrollo proyectos con **SQL, Excel, Power Query y Power BI** para preparar información, analizar ventas y comunicar hallazgos de negocio.
+Tengo formación en **Ingeniería de Sistemas e Informática**, con enfoque en análisis de datos y Business Intelligence. Desarrollo proyectos con **SQL, Excel, Power Query y Power BI** para preparar información, analizar ventas y comunicar hallazgos de negocio.
 
 - 📊 **Preparación de datos:** limpieza, validación y transformación con Excel y Power Query.
 - 🔎 **Análisis:** consultas SQL para comparar resultados e identificar hallazgos relevantes.
