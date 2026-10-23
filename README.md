@@ -47,7 +47,7 @@ Proyectos que muestran cómo preparo datos, respondo preguntas de negocio y pres
 | **[NexaMart — Análisis comercial](https://github.com/Maxi-ING/Project-Nexamart)** | Diez consultas SQL para comparar tiendas, productos y vendedores, con respuestas comerciales y un dashboard para explorar decisiones. | SQL · MySQL · Power BI · DAX |
 | **[ETL y calidad de datos de ventas](https://github.com/Maxi-ING/Proyect-ETL-VENTAS)** | Preparación de **12.575 transacciones**: **11.971 ventas válidas** y **604 casos para revisión**, mediante reglas de limpieza reproducibles. | Excel · Power Query · M |
 | **[Dashboard comercial y control de ventas](https://github.com/Maxi-ING/Dashboard-comercial)** | Seguimiento de **240 pedidos**, con indicadores y comparaciones por categoría, región, método de pago y mes. | Power BI · DAX · MySQL |
-| **[Segmentación de clientes con Python](https://github.com/Maxi-ING/ClasificacionClientes/tree/dev)** | Análisis de **4.335 clientes**: el **34 % concentra el 82,1 % de las ventas brutas**, con segmentos y recomendaciones de recompra y fidelización. | Python · pandas · scikit-learn · Streamlit |
+<!-- --- **[Segmentación de clientes con Python](https://github.com/Maxi-ING/ClasificacionClientes/tree/dev)** | Análisis de **4.335 clientes**: el **34 % concentra el 82,1 % de las ventas brutas**, con segmentos y recomendaciones de recompra y fidelización. | Python · pandas · scikit-learn · Streamlit | --- -->
 
 <br/>
 
